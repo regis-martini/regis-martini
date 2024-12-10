@@ -3,7 +3,5 @@
 
 ### Hi there 👋 Regis Here
 
-Also known as: Regis Martini,
-
 
 [🔗 LinkedIn](https://www.linkedin.com/in/regis-martini-b874229/)
