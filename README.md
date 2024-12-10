@@ -1,4 +1,5 @@
-<img align="right" src="https://github.com/regis-martini/gyf304/blob/main/github-metrics.svg">
+<img align="right" src="https://github.com/regis-martini/regis-martini/blob/main/github-metrics.svg">
+
 
 ### Hi there 👋 Regis Here
 
